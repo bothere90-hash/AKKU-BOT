@@ -11,7 +11,7 @@ module.exports.config = {
     commandCategory: "group",
     usages: "[on/off]",
     cooldowns: 5,
-    allowedUID: ["1000123456789"] // yaha apna UID daal
+    allowedUID: ["61565630349063"] // yaha apna UID daal
 };
 
 let lastUsed = 0; // cooldown tracking
